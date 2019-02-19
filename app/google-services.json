@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "561951763170",
+    "firebase_url": "https://myfitnessnutritiondairy.firebaseio.com",
+    "project_id": "myfitnessnutritiondairy",
+    "storage_bucket": "myfitnessnutritiondairy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561951763170:android:9d0d5dc83be2f221",
+        "android_client_info": {
+          "package_name": "workshop.g_s.myfitnessnutritiondairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561951763170-goana28sk0turjsaqjlqilkfogsoop74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYL3cZ9JO2hNF9sWJW4x07UQtYJ5Gkbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

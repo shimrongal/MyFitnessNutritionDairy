@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Use DrawerLayout as root container for activity -->
+<android.support.v4.widget.DrawerLayout tools:context=".screens.fitness.fitness_activity.core.FitnessActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer_layout_fitness"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Layout to contain contents of main body of screen (drawer will slide over this) -->
+    <android.support.design.widget.CoordinatorLayout
+        android:id="@+id/overview_coordinator_layout_fitness"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbarFitnessActivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="?android:attr/listPreferredItemHeightSmall"
+                app:layout_scrollFlags="enterAlways|scroll"
+                android:elevation="4dp"
+                android:background="@color/silver" />
+
+        </android.support.design.widget.AppBarLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/llFitnessActivityContainer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dimgray"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"></LinearLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>
+
+    <!-- Container for contents of drawer - use NavigationView to make configuration easier -->
+    <android.support.design.widget.NavigationView
+        android:id="@+id/nav_view_fitness"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:fitsSystemWindows="true" />
+</android.support.v4.widget.DrawerLayout>

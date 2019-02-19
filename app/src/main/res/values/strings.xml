@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyFitness&amp;NutritionDairy</string>
+    <string name="nutritionl_facts">Nutritional Facts</string>
+    <string name="amount_per_100g">Amount per 100g</string>
+    <string name="based_on_a_2000_calorie_diat">* Based on a 2000 calorie diat</string>
+    <string name="calories_details">Calories: %1$s</string>
+    <string name="protein_details">Protein: %1$sg</string>
+    <string name="total_carbohydrates_details">Total Carbohydrates: %1$sg</string>
+    <string name="diatry_fiber_details">Diatry fiber: %1$sg</string>
+    <string name="sugars_details">Sugars: %1$sg</string>
+    <string name="total_fat_details">Total fat: %1$sg</string>
+    <string name="saturated_fat_details">Saturated Fat: %1$sg</string>
+    <string name="trans_fat_details">Trans fat: %1$sg</string>
+    <string name="polyunsaturated_fat_details">Polyunsaturated fat: %1$sg</string>
+    <string name="monounsaturated_fat_details">Monounsaturated fat: %1$sg</string>
+    <string name="cholesterol_details">Cholesterol: %1$smg</string>
+    <string name="load">Load</string>
+    <string name="new_note">New Note</string>
+    <string name="save">Save</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="fitness">Fitness</string>
+    <string name="camera">Camera</string>
+    <string name="scanner">BarCode scanner</string>
+    <string name="workout">Workouts</string>
+    <string name="foods">Nutrition</string>
+    <string name="exercise_level">Level : %1$d</string>
+    <string name="exercise_sets">Sets : %1$d</string>
+    <string name="exercise_reps">Reps : %1$d</string>
+    <string name="workout_duration">Duration : %1$d minute</string>
+    <string name="search_url">https://www.google.com/search?q=%1$s</string>
+    <string name="db_name">MyDB</string>
+    <string name="exit">Exit</string>
+    <string name="nutrition_grade">Nutrition Grade :</string>
+    <string name="minerals">Minerals :</string>
+    <string name="vitamins">Vitamins :</string>
+    <string name="colesterol_amount">Colesterol :</string>
+    <string name="serving_size">Serving size :</string>
+    <string name="food_brand_name">Food Brand Name :</string>
+    <string name="gram">g</string>
+    <string name="food_name">Food Name :</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">יומן הכושר והתזונה שלי</string>
+    <string name="nutritionl_facts" translatable="false">ערכים תזונתיים</string>
+    <string name="amount_per_100g" translatable="false">כמות ל 100 ג</string>
+    <string name="based_on_a_2000_calorie_diat" translatable="false">* מבוסס על דיאטה של 2000 קלוריות</string>
+    <string name="calories_details" translatable="false">קלוריות : %1$s</string>
+    <string name="protein_details" translatable="false">חלבונים: %1$sג</string>
+    <string name="total_carbohydrates_details" translatable="false">ס״כ הפחמימות: %1$sג</string>
+    <string name="diatry_fiber_details">סיבים תזונתייים: %1$sג</string>
+    <string name="sugars_details">סוכרים: %1$sג</string>
+    <string name="total_fat_details">ס״כ שומנים: %1$sג</string>
+    <string name="saturated_fat_details">שומן רווי: %1$sג</string>
+    <string name="trans_fat_details">שומן טראנס: %1$sג</string>
+    <string name="polyunsaturated_fat_details">שומן רב בלתי תלוי: %1$sג</string>
+    <string name="monounsaturated_fat_details">שומן חד בלתי רווי: %1$sג</string>
+    <string name="cholesterol_details">כולסטרול: %1$smg</string>
+    <string name="load">טען</string>
+    <string name="new_note">פתק חדש</string>
+    <string name="save">שמור</string>
+    <string name="nutrition">תזונה</string>
+    <string name="fitness">כושר</string>
+    <string name="camera">מצלמה</string>
+    <string name="scanner">סורק בר קוד</string>
+    <string name="workout">אימונים</string>
+    <string name="foods">תזונה</string>
+    <string name="exercise_level">רמה : %1$d</string>
+    <string name="exercise_sets">סטים : %1$d</string>
+    <string name="exercise_reps">חזרות : %1$d</string>
+    <string name="workout_duration">משך : %1$d דקות</string>
+    <string name="search_url">https://www.google.com/search?q=%1$s</string>
+    <string name="db_name">MyDB</string>
+    <string name="exit">יציאה</string>
+    <string name="nutrition_grade">ציון תזונתי :</string>
+    <string name="minerals">מינרלים :</string>
+    <string name="vitamins">ויטמינים :</string>
+    <string name="colesterol_amount">כולסטרול :</string>
+    <string name="serving_size">מידת הגשה :</string>
+    <string name="food_brand_name">שם החברה :</string>
+    <string name="food_name">שם :</string>
+    <string name="gram">ג</string>
+    <string name="share">שתף</string>
+    <string name="send">שלח</string>
+</resources>
